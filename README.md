@@ -21,7 +21,7 @@ authentication, and a 3-tier role-based access system.
 
 ## How to Run
 1. Clone the repository
-   git clone <your-repo-url>
+   git clone https://github.com/Vishal-T-24/Multi-Vendor-E-Commerce-Backend-System.git
 2. Set up PostgreSQL and Redis locally
 3. Update DB credentials in the config file
 4. Compile and run
